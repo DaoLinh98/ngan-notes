@@ -1,4 +1,4 @@
-# Ngăn
+# NOOK
 
 A Vietnamese-language, local-only secure notes and password manager. Built with React 18, TypeScript, and Vite — no backend, no router, no state library. Every piece of data lives in a single encrypted blob in IndexedDB, and the master password never leaves memory or touches disk.
 
